@@ -1,0 +1,2 @@
+	可以使用hutool工具包简单的使用http请求
+# 使用java原生的Http工具
